@@ -12,3 +12,4 @@ name = "Issac Newton"
 template = "team_member"
 
 +++
+This is our team
