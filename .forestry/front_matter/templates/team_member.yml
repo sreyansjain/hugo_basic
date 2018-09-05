@@ -1,0 +1,28 @@
+---
+label: team_member
+hide_body: false
+is_partial: true
+display_field: name
+fields:
+- type: text
+  name: name
+  label: name
+- type: text
+  name: designation
+  label: Designation
+- type: text
+  name: facebook
+  label: Facebook
+  description: Facebook URL
+- type: text
+  name: twitter
+  label: Twitter
+  description: Twitter URL
+- type: text
+  name: linkedin
+  label: LinkedIn
+  description: LinkedIn URL
+- type: text
+  name: instagram
+  label: Instagram
+  description: Instagram URL
