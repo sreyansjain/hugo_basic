@@ -16,3 +16,5 @@ fields:
   label: Team
   template_types:
   - team_member
+pages:
+- content/about/team.md
