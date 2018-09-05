@@ -29,3 +29,5 @@ fields:
   description: Cover Image in the ratio 16:9.
   config:
     maxSize: '1'
+pages:
+- content/test.md
