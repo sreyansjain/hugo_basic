@@ -1,0 +1,17 @@
+---
+label: album
+hide_body: true
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - seo
+  label: SEO
+  name: seo
+  config:
+    min: '1'
+    max: "-12"
+- type: image_gallery
+  name: images
+  label: images
+  description: Images in the album. Preferably all of the same size.
