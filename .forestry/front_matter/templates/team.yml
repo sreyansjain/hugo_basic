@@ -1,0 +1,18 @@
+---
+label: team
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - seo
+  label: SEO
+  name: seo
+  config:
+    min: '1'
+    max: '1'
+- type: blocks
+  name: team
+  label: Team
+  template_types:
+  - team_member
