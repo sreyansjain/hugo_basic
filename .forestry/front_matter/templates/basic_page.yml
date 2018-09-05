@@ -1,13 +1,9 @@
 ---
-label: basic_page
-hide_body: false
-is_partial: false
+label: seo
+hide_body: true
+is_partial: true
+display_field: seo_title
 fields:
-- type: text
-  name: title
-  label: Title
-  config:
-    required: true
 - type: text
   name: seo_title
   label: SEO Title
