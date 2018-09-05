@@ -1,0 +1,33 @@
+---
+label: contact
+hide_body: true
+is_partial: false
+fields:
+- type: blocks
+  name: seo
+  label: SEO
+  template_types:
+  - seo
+  config:
+    min: '1'
+    max: '1'
+- type: text
+  label: Name
+  name: name
+- type: textarea
+  name: address
+  label: Address
+- type: text
+  name: phone_number
+  label: Phone Number
+- type: text
+  name: email
+  label: Email
+- type: text
+  name: google_map_coordinates
+  label: Google Map Coordinates
+- type: blocks
+  label: Other Addresses
+  name: other_addresses
+  template_types:
+  - address
