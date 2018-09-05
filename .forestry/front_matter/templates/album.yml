@@ -1,0 +1,11 @@
+---
+label: album
+hide_body: true
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - basic_page
+- type: image_gallery
+  name: images
+  label: Images
