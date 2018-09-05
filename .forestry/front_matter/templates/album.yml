@@ -15,3 +15,5 @@ fields:
   name: images
   label: images
   description: Images in the album. Preferably all of the same size.
+pages:
+- gallery/album-1.md
