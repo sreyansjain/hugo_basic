@@ -4,6 +4,7 @@ draft = true
 images = []
 title = "Album 1"
 [[seo]]
+seo_title = "Album 1"
 template = "seo"
 
 +++
