@@ -1,0 +1,23 @@
+---
+label: seo
+hide_body: false
+is_partial: true
+display_field: seo_title
+fields:
+- type: text
+  name: seo_title
+  label: SEO Title
+  description: Title for SEO purposes. This will be the title in the page tab or browser
+    window and searches.
+- type: textarea
+  description: Keywords separated by comma. These keywords would help in searches.
+  label: SEO Keywords
+  name: seo_keywords
+- type: textarea
+  name: seo_description
+  label: seo_description
+  description: Description of the page as would appear in searches.
+- type: file
+  label: cover_image
+  name: cover_image
+  description: Cover Image in the ratio 16:9.
