@@ -4,6 +4,12 @@ hide_body: false
 is_partial: true
 display_field: name
 fields:
+- type: file
+  name: profile_picture
+  label: Profile Picture
+  description: Profile Picture of the Team Member preferably square.
+  config:
+    maxSize: '0.5'
 - type: text
   name: name
   label: name
