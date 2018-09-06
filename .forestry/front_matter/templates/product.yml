@@ -31,3 +31,5 @@ fields:
     source:
       type: pages
   hidden: false
+pages:
+- content/test-product.md
