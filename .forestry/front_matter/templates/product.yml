@@ -14,3 +14,12 @@ fields:
 - type: textarea
   label: Short Description
   name: short_description
+- type: file
+  name: main_picture
+  label: Main Picture
+- type: image_gallery
+  name: other_pictures
+  label: other_pictures
+- type: image_gallery
+  name: product_files
+  label: product_files
