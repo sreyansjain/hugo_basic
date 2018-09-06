@@ -19,7 +19,7 @@ fields:
   label: Main Picture
 - type: image_gallery
   name: other_pictures
-  label: other_pictures
+  label: Other Pictures
 - type: image_gallery
   name: product_files
-  label: product_files
+  label: Product Files
