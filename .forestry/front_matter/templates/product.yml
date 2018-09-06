@@ -23,3 +23,11 @@ fields:
 - type: image_gallery
   name: product_files
   label: Product Files
+- type: list
+  name: features
+  label: Features
+  config:
+    use_select: false
+    source:
+      type: pages
+  hidden: false
