@@ -31,3 +31,8 @@ fields:
     source:
       type: pages
   hidden: false
+- type: blocks
+  name: highlights
+  label: Highlights
+  template_types:
+  - highlight
