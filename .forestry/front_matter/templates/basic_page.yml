@@ -16,5 +16,10 @@ fields:
   label: Cards
   template_types:
   - card
+- type: blocks
+  name: highlights
+  label: Highlights
+  template_types:
+  - highlight
 pages:
 - content/about/company.md
