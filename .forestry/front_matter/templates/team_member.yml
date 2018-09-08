@@ -32,3 +32,6 @@ fields:
   name: instagram
   label: Instagram
   description: Instagram URL
+- type: textarea
+  name: description
+  label: Description
