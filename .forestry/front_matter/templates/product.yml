@@ -39,3 +39,5 @@ fields:
   label: Highlights
   template_types:
   - highlight
+pages:
+- content/products/product-1.md
