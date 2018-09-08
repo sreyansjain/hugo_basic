@@ -43,5 +43,3 @@ fields:
   config:
     color_format: Hex
   label: Body Text Color
-pages:
-- data/meta.yml
