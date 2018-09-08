@@ -1,0 +1,45 @@
+---
+label: meta
+hide_body: true
+is_partial: false
+fields:
+- type: file
+  name: main_logo
+  label: Main Logo
+  config:
+    maxSize: '0.5'
+- type: file
+  name: favicon
+  label: Favicon
+  config:
+    maxSize: '0.2'
+- type: file
+  name: footer_logo
+  label: footer_logo
+  config:
+    maxSize: '0.5'
+- type: color
+  name: primary_color
+  config:
+    color_format: Hex
+  label: Primary Color
+- type: color
+  name: secondary_color
+  config:
+    color_format: Hex
+  label: Secondary Color
+- type: color
+  name: header_background_color
+  config:
+    color_format: Hex
+  label: Header Background Color
+- type: color
+  name: footer_background_color
+  config:
+    color_format: Hex
+  label: Footer Background Color
+- type: color
+  name: body_text_color
+  config:
+    color_format: Hex
+  label: Body Text Color
