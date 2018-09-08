@@ -20,9 +20,6 @@ fields:
 - type: text
   name: link
   label: Link
-- type: text
-  name: background_color
-  label: Background Color
 - type: color
   name: background_color
   config:
