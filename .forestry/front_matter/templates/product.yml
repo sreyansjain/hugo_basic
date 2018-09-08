@@ -23,6 +23,9 @@ fields:
 - type: image_gallery
   name: product_files
   label: Product Files
+- type: text
+  name: feature_title
+  label: Feature Title
 - type: list
   name: features
   label: Features
