@@ -31,3 +31,5 @@ fields:
   name: other_addresses
   template_types:
   - address
+pages:
+- content/contact.md
