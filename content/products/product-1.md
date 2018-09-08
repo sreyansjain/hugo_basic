@@ -8,6 +8,7 @@ product_files = []
 short_description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, accusantium!"
 title = "Product 1"
 [[highlights]]
+background_color = "#007AFF"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque voluptate soluta accusantium explicabo, veritatis libero assumenda laudantium minus, eaque nostrum!"
 link = "http://google.com"
 link_name = "Buy Now"
