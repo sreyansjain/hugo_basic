@@ -8,6 +8,8 @@ other_addresses = []
 phone_number = "+91 33 40660312"
 title = "Contact"
 [[seo]]
+seo_keywords = "contact, office, kolkata"
+seo_title = "Contact Page"
 template = "seo"
 
 +++
