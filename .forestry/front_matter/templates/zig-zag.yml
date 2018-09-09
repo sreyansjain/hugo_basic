@@ -1,0 +1,27 @@
+---
+label: Zig Zag
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: link_name
+  label: Link Name
+- type: text
+  name: link
+  label: Link
+- type: file
+  name: image
+  label: Image
+  description: square image or image in proportion to the text
+  config:
+    maxSize: '1'
