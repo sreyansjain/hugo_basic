@@ -1,0 +1,26 @@
+---
+label: slider
+hide_body: true
+is_partial: true
+display_field: slide_title
+fields:
+- type: file
+  name: image
+  label: Image
+  description: Image in the ratio 21:9
+- type: text
+  name: slide_title
+  label: Slide Title
+- type: textarea
+  name: slide_description
+  label: Slide Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: link_name
+  label: Link Name
+- type: text
+  name: link
+  label: Link
