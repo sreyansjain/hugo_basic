@@ -11,9 +11,6 @@ fields:
     max: '1'
   template_types:
   - seo
-- type: datetime
-  name: date
-  label: Date
 - type: tag_list
   name: categories
   label: Categories
