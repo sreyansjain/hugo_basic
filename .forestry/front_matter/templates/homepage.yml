@@ -11,6 +11,11 @@ fields:
     max: '1'
   template_types:
   - seo
+- type: blocks
+  name: slider
+  label: Slider
+  template_types:
+  - slider
 - type: text
   name: section_title
   label: Section Title
@@ -32,3 +37,13 @@ fields:
   label: Cards
   template_types:
   - card
+- type: blocks
+  name: zig_zag
+  label: Zig Zag
+  template_types:
+  - zig-zag
+- type: blocks
+  name: highlights
+  label: Highlights
+  template_types:
+  - highlight
