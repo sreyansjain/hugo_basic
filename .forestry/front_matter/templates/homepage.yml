@@ -47,3 +47,5 @@ fields:
   label: Highlights
   template_types:
   - highlight
+pages:
+- content/_index.md
